@@ -1,16 +1,22 @@
 _repo: Viaggio-a-Costantinopoli_50674
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Lega, Alberto Bacchi della
       gutenberg_agent_id: '46034'
       url: http://www.gutenberg.org/2009/agents/46034
+covers:
+- cover_type: archival
+  image_path: 50674-h/images/cover.jpg
 creator:
   author:
     agent_name: Alberti, Tommaso
     gutenberg_agent_id: '46033'
     url: http://www.gutenberg.org/2009/agents/46033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50674#Viaggio-a-Costantinopoli
 gutenberg_bookshelf: IT Viaggi
 gutenberg_issued: '2015-12-12'
 gutenberg_type: Text
